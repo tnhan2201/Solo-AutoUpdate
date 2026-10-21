@@ -1,1 +1,6 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>0.0.0.0</version>
+  <url>https://example.com/SoloRik.zip</url>
+  <mandatory>false</mandatory>
+</item>
